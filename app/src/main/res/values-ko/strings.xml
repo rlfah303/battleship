@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">배틀쉽</string>
+
+    <string name="music_set_title">브금</string>
+    <string name="music_on">음악켜짐</string>
+    <string name="music_off">음악꺼짐</string>
+
+    <string name="rapid_fire_m">미사일 빨리</string>
+    <string name="rapid_fire_m_on">미사일 빨리 켜기 </string>
+    <string name="rapid_fire_m_off">미사일 빨리 끄기</string>
+
+    <string name="rapid_fire_d">어뢰 빨리</string>
+    <string name="rapid_fire_d_on">어뢰 빨리 켜기</string>
+    <string name="rapid_fire_d_off">어뢰 빨리 끄기</string>
+
+    <string name="enemy_number_title">적 숫자</string>
+    <string name="set_enemy_numbers">적 숫자?</string>
+    <string-array name="set_numbers_enemy">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string name="enemy_speed_title">적 속도</string>
+    <string name="set_enemy_speed">적 속도?</string>
+    <string-array name="speed_options">
+        <item>빨리</item>
+        <item>보통</item>
+        <item>느리게</item>
+    </string-array>
+
+    <string name="enemy_direction_title">적 방향</string>
+    <string name="set_enemy_direction">적방향?</string>
+    <string-array name="direction_options">
+        <item>오른쪽</item>
+        <item>왼쪽</item>
+        <item>마이웨이</item>
+    </string-array>
+
+    <string name="game_title">배틀쉽</string>
+    <string name="game_message">이겨봐라</string>
+
+    <string name="score_screen">점수 </string>
+    <string name="time_screen">전역날 </string>
+    <string name="congrats">ㅅㄱ </string>
+    <string name="highest_score">굳ㅋ </string>
+    <string name="yes">넹 </string>
+    <string name="no">놉 </string>
+    <string name="game_over">이제 숙제하러가 </string>
+    <string name="start_over">한판더? </string>
+
+
+
+
+
+</resources>

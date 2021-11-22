@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">BW_Mockup2019</string>
+
+    <string name="music_set_title">SFX</string>
+    <string name="music_on">Music will play</string>
+    <string name="music_off">Music will not play</string>
+
+    <string name="rapid_fire_m">RapidFire Missiles</string>
+    <string name="rapid_fire_m_on">RapidFire m on </string>
+    <string name="rapid_fire_m_off">RapidFire m off</string>
+
+    <string name="rapid_fire_d">RapidFire DepthCharges</string>
+    <string name="rapid_fire_d_on">RapidFire d on</string>
+    <string name="rapid_fire_d_off">RapidFire d off</string>
+
+    <string name="enemy_number_title">Enemy Numbers</string>
+    <string name="set_enemy_numbers">Set numbers of enemies</string>
+    <string-array name="set_numbers_enemy">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string name="enemy_speed_title">Enemy Speed</string>
+    <string name="set_enemy_speed">Set speed of enemies</string>
+    <string-array name="speed_options">
+        <item>Fast</item>
+        <item>Medium</item>
+        <item>Slow</item>
+    </string-array>
+
+    <string name="enemy_direction_title">Enemy Direction</string>
+    <string name="set_enemy_direction">Set directions of enemies</string>
+    <string-array name="direction_options">
+        <item>LEFT_to_RIGHT</item>
+        <item>RIGHT_to_LEFT</item>
+        <item>BOTH</item>
+    </string-array>
+
+    <string name="game_title">Battleship</string>
+    <string name="game_message">Get the Highest Score!!</string>
+
+    <string name="score_screen">SCORE: </string>
+    <string name="time_screen">TIME: </string>
+    <string name="congrats">Congrats! </string>
+    <string name="highest_score">A new high score! </string>
+    <string name="yes">YES </string>
+    <string name="no">NO </string>
+    <string name="game_over">Game Over </string>
+    <string name="start_over">Do you want to start it over? </string>
+
+
+
+
+
+</resources>
